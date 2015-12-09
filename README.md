@@ -1,2 +1,2 @@
 # json-api-utils
-## Docs coming soon
+Docs coming soon
