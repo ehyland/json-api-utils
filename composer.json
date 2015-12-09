@@ -1,0 +1,23 @@
+{
+    "name": "ehyland/json-api-utils",
+    "description": "Collection of classes help expose pages through a JSON API",
+    "type": "silverstripe-module",
+    "homepage": "https://github.com/ehyland/json-api-utils",
+    "keywords": ["silverstripe", "json", "api"],
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Eamon Sean Hyland",
+            "email": "ehyland90@gmail.com"
+        }
+    ],
+    "support": {
+        "issues": "http://github.com/silverstripe-australia/silverstripe-gridfieldextensions/issues"
+    },
+    "require": {
+        "silverstripe/framework": "^3.2"
+    },
+    "extra": {
+        "installer-name": "json-api-utils"
+    }
+}
